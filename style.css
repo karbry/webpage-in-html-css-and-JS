@@ -14,8 +14,6 @@ img {
 }
 
 .hero {
-	height: 70vh;
-    width: 100%;
 	background: linear-gradient(45deg, rgba(255,175,189,.7), rgba(100,216,243,.7), rgba(234,236,198,.7), rgba(245,146,176,.7), rgba(52,219,216,.7)) 0 0 / 1000% no-repeat, url(https://www.myholidayguru.co.uk/wp-content/uploads/2017/11/Similan-Inseln-Thailand-iStock-163183724-2.jpg) 0 0 / cover no-repeat;
 	-webkit-animation: gradientAnimation 40s ease infinite;
 	animation: gradientAnimation 40s ease infinite;
